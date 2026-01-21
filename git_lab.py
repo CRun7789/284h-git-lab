@@ -61,5 +61,5 @@ def is_prime(n):
     return True
 
 def add_numbers(a, b):
-    """Returns the sum of two numbers BUT EVIL."""
-    return a - b
+    """Returns the sum of two numbers BUT NICE AND LOVELY."""
+    return a + b
