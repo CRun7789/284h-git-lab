@@ -66,7 +66,3 @@ def add_numbers(a, b):
 
 def returnSeven():
     return 7
-
-def multiply_numbers(a, b):
-    """Returns the product of two numbers."""
-    return a * b
