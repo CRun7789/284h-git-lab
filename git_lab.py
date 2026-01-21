@@ -63,3 +63,6 @@ def is_prime(n):
 def add_numbers(a, b):
     """Returns the sum of two numbers BUT EVIL in a different way."""
     return a * b
+
+def returnSeven():
+    return 7
